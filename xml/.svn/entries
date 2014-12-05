@@ -1,0 +1,112 @@
+8
+
+dir
+251
+svn://11235813.com:5190/army/armyDVD/xml
+svn://11235813.com:5190
+
+
+
+2007-01-31T06:10:07.433391Z
+245
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cfc2c80d-111e-0410-974c-a54a116c88f9
+
+zipcodes.xml
+file
+
+
+
+
+2007-01-29T21:39:32.000000Z
+cf29b45ece2fd9d6e87717c9b1ee19a8
+2007-01-29T01:21:17.563929Z
+163
+eric
+
+root.xml
+file
+
+
+
+
+2007-01-29T21:39:32.000000Z
+ce9ebd13e24b575019df55e4fc295136
+2007-01-29T01:21:17.563929Z
+163
+eric
+
+locator
+dir
+
+global.locations copy.xml
+file
+
+
+
+
+2007-01-31T15:37:42.000000Z
+b95154ba5c147c40185158c6554a71b9
+2007-01-26T20:01:58.052301Z
+146
+henry
+
+global.locations copy 1.xml
+file
+
+
+
+
+2007-01-31T15:37:42.000000Z
+b95154ba5c147c40185158c6554a71b9
+2007-01-26T20:01:58.052301Z
+146
+henry
+
+rotc
+dir
+
+strings.xml
+file
+
+
+
+
+2007-01-31T15:37:46.000000Z
+7fcaa17e738b3b44bc4bb2d9370b9f67
+2007-01-31T06:10:07.433391Z
+245
+eric
+
+global.locations.xml
+file
+
+
+
+
+2007-01-30T20:13:22.000000Z
+e5cc01fdbff7482675c3e03aae8219b0
+2007-01-30T20:45:45.286185Z
+217
+henry
+
+active
+dir
+
+reserve
+dir
+

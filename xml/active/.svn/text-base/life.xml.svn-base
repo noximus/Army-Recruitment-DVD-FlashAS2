@@ -1,0 +1,18 @@
+<content clip="Template_life">
+	<fields>
+
+		<textfield name="mc_top.tf_title" text="string:active/sections/life/title" />
+		<textfield name="mc_top.tf_copy"  text="string:active/sections/life/copy" />
+		
+		<textfield name="mc_where.tf_title" text="string:active/sections/life/globe/title" />
+		<textfield name="mc_where.tf_copy"  text="string:active/sections/life/globe/copy" />
+
+		<textfield name="mc_isthis.tf_title" text="string:active/sections/life/scroll/title" />
+		<textfield name="mc_isthis.tf_copy"  text="string:active/sections/life/scroll/copy" />				
+
+		
+	</fields>
+	<clips>
+
+	</clips>
+</content>

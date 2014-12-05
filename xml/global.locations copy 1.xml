@@ -1,0 +1,17 @@
+<locations>
+	<location latitude="35 N" longitude="139 E">
+		<name>Tokyo</name>
+	</location>
+	<location latitude="32 N" longitude="13 E">
+		<name>Tripoli</name>
+	</location>
+	<location latitude="48 N" longitude="11 E">
+		<name>Munich</name>
+	</location>
+	<location latitude="34 N" longitude="118 W">
+		<name>Los Angeles</name>
+	</location>
+	<location latitude="40 N" longitude="73 W">
+		<name>New York</name>
+	</location>
+</locations>

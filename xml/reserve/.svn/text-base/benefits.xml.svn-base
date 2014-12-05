@@ -1,0 +1,26 @@
+<content clip="Templates_benefits_reserves">
+	<fields>
+
+		<textfield name="mc_left.tf_title" text="string:reserve/sections/benefits/title" />
+		<textfield name="mc_left.tf_copy"  text="string:reserve/sections/benefits/copy" />
+		
+		<textfield name="mc_left.tf_further_title"  text="string:reserve/sections/benefits/further/title" />
+		<textfield name="mc_left.tf_further_copy"  text="string:reserve/sections/benefits/further/copy" />
+		<textfield name="mc_left.tf_further_click"  text="string:reserve/sections/benefits/further/click" />
+		
+		
+		
+		
+		
+		
+		<textfield name="mc_bottom.tf_title" text="string:reserve/sections/benefits/slideshow/title" />
+		<textfield name="mc_bottom.tf_copy"  text="string:reserve/sections/benefits/slideshow/copy" />
+
+		
+
+		
+	</fields>
+	<clips>
+
+	</clips>
+</content>

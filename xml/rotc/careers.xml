@@ -1,0 +1,9 @@
+<content clip="Template_careers_rotc">
+	<fields>
+		<textfield name="tf_title" text="string:rotc/sections/careers/title" />
+		<textfield name="tf_copy"  text="string:rotc/sections/careers/copy" />
+	</fields>
+	<clips>
+		<clip name="mc_matrix" type="CareerMatrix" contentPath="mc_careers.mc_matrix" xmlPath="xml/active/careermatrix.xml" thumbPath="img/career_thumbs/"/>
+	</clips>
+</content>

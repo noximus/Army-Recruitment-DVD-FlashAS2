@@ -1,0 +1,856 @@
+<strings>
+<!-- test -->
+	<main>
+		<headline>Are you Army Strong?</headline>
+		<choose>Explore the way you want to serve.</choose>
+		<rollovers>
+			<active>Active Army</active>
+			<reserve>Army Reserve</reserve>
+			<rotc>Army ROTC</rotc>
+		</rollovers>
+	</main>
+
+
+	<active>
+		<home>
+			<headline>Arctive Army</headline>
+			<subhead>This is what most people think of when they think of the U.S. Army. It's being part of the largest, most powerful Army on earth. Find out more.</subhead>
+		</home>
+		<sections>
+			<basic>
+				<title>Basic Combat Training</title>
+				<copy><![CDATA[Here you begin your transformation from civilian to Soldier. In 9 weeks, you will become more confident, disciplined and you will live to learn to live the 7 Army Values.
+				]]></copy>
+				<getinshape>
+					<title>Get in Shape for Basic</title>
+					<copy>One of the best ways to succeed in Basic is to be in shape. This simple program can give you a head start.   </copy>
+					<items>
+						<item>
+							<title>The Push-Up</title>
+							<copy>50 every day, 2x a day</copy>
+							<img>swf/pushup.swf</img>
+						</item>
+						<item>
+							<title>The Pull-Up</title>
+							<copy>20 every day, 2x a day</copy>
+						</item>
+						<item>
+							<title>The Push-Up</title>
+							<copy>100 every day, 2x a day</copy>
+						</item>
+						<item>
+							<title>Water</title>
+							<copy>Staying hydrated is key to staying healthy and fit. Drink 8 16-oz. glasses every day.</copy>
+						</item>
+					</items>
+				</getinshape>
+			</basic>
+
+			<ait>
+				<title>Advanced Individual Training</title>
+				<headline>Advanced Individual Training (AIT)</headline>
+				<copy><![CDATA[Here is where you get to choose and learn your Army job (MOS). In the Active Army, you can pick one of over 150 different specialties. The training, experience and work ethic you gain will help you as a Soldier and a civilian.
+				
+				]]></copy>
+				<qtvr>
+					<title>Get Into Higher Tech. </title>
+					<copy><![CDATA[Take a 360&deg; walk around some of the latest equipment you could be using.]]></copy>
+				</qtvr>
+				<insignia>
+					<copy><![CDATA[Wear one of these proudly. After AIT, you've earned it.]]></copy>	
+				</insignia>
+				<blackhawk>
+				<title>BLACK HAWK CHALLENGE</title>
+				<copy><![CDATA[<p>Do You Have What It Takes To Fly A Blackhawk?</p><p>Have you got the poise, intelligence and reflexes to safely transport your men in time? Click to download "The Blackhawk Challenge" game and see.</p>]]></copy> 
+				</blackhawk>
+				<link><![CDATA[<a href="http://www.goarmy.com" target="_blank">goarmy.com</a>]]></link>
+			</ait>
+			
+			<careers>
+				<title>Career Choices</title>
+				<copy><![CDATA[There is no limit to the opportunities in the Army and no limit to what you can learn and achieve. With over 150 different jobs (MOS), there's an Army job right for you—one that will provide the experience that can give you an edge over those in the civilian world.  
+				]]></copy>
+				<mos>
+					<copy><![CDATA[What's going to be your specialty?]]></copy>
+					<select>Select one of these categories to find the job (MOS) that most closely 
+					</select>
+				</mos>
+			</careers>
+			
+			<life>
+				<title>Life on Post</title>
+				<copy><![CDATA[It's not all training and drilling. On an Army Post, Soldiers don't just have a life, they have a lifestyle. There are a wide variety of shopping, entertainment, sports and leisure activities, even family support services. A Post is a home to relax in, a tight-knit community where friendships are forged.
+				]]></copy>
+				<scroll>
+					<title>Is This On A Post?</title>
+					<copy>Which of these you won't find on an Army Post? Click and see.
+					</copy>
+					<items>
+						<item>
+							<title>GYMS/FITNESS CENTERS</title>
+							<desc>We've got them. Spas, too.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>MOVIE THEATERS</title>
+							<desc>We have plenty, showing first-run features and classics.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>LIBRARIES</title>
+							<desc>Got them. More than a million books in total.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>COMPUTER LABS</title>
+							<desc>Naturally. Great places to learn or just surf.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>PLACES OF WORSHIP</title>
+							<desc>Of course we have these. </desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>PARKS</title>
+							<desc>We have over 5,000 acres of them.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>SWIMMING POOLS</title>
+							<desc>We have plenty. From kiddie-size to Olympic.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>BOWLING ALLEYS</title>
+							<desc>Yes, some open 24 hours.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>GOLF COURSES</title>
+							<desc>Fore! Hard to believe, but we have them.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>TENNIS COURTS</title>
+							<desc>Have them. Indoor and outdoor.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>RIDING STABLES</title>
+							<desc>You'd be amazed, but we have them.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>DEPARTMENT STORE</title>
+							<desc>On Post, we call them PXs and they have amazing discounts.</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>RESTAURANTS</title>
+							<desc>Of course. From casual to gourmet.  </desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+						<item>
+							<title>BARS AND CLUBS</title>
+							<desc>We have lots of great places to hang out. Rock on!</desc>
+							<thumb>img/thumbs/isthis1.jpg</thumb>
+							<img>img/isthis1.jpg</img>
+						</item>
+					</items>
+				</scroll>
+				<globe>
+					<title>Where You Might Serve</title>
+					<copy><![CDATA[When you enlist for Active Duty, you will serve at one of the many Army Posts located throughout the U.S. and around the world. Click the globe to see where that might be.]]></copy>
+				</globe>
+				<insignia>
+					<title>What's Your Division?</title>
+					<copy><![CDATA[Each division is represented by a unique badge that represents a heritage of honor and accomplishment. Download the one you'd like to be a part of—or one that a relative proudly served in.]]></copy>
+				</insignia>
+			</life>
+
+			<benefits>
+				<title>Benefits</title>
+				<copy><![CDATA[The training and salary you get as a Soldier are only some of the ways the Army makes you strong you for today and tomorrow. The Army also offers enlistment bonuses, incentives, and money for education, comprehensive health care, and more.
+				
+These are just some of the benefits available when you enlist
+				]]></copy>
+				<photos>
+					<img src="img/img1.jpg" thumb="img/thumbs/img1.jpg" />
+					<img src="img/img2.jpg" thumb="img/thumbs/img2.jpg" />
+					<img src="img/img3.jpg" thumb="img/thumbs/img3.jpg" />
+					<img src="img/img4.jpg" thumb="img/thumbs/img4.jpg" />
+					<img src="img/img5.jpg" thumb="img/thumbs/img5.jpg" />
+				</photos>
+				<benefits>
+					<items>
+						<item>Up to $65,00 to repay student loans</item>
+						<item>Up to $72,900 to help pay for college</item>
+						<item>Up to $40,000 in enlistment bonuses</item>
+						<item>Up to an $8,000 bonus for accrued college credit</item>
+						<item>Partnership for Youth Success</item>
+						<item>Retirement Savings Plan</item>
+					</items>
+				</benefits>
+				<paychart>
+					<slide1>
+						<title>It's More Than Just Salary</title>
+						<copy>The value of your compensation on Active Duty is measured in more than just cash. When combined with non-cash extras the Army provides—health care, retirement pay, childcare and free or subsidized food, housing and education—the overall compensation is very attractive. Compare the total compensation and expenses for a similar job for a civilian and a Soldier.</copy>
+					</slide1>
+					<slide2>
+						<col1>Civilian Job
+Telecommunications Engineer II</col1>
+						<col2>Army Job*
+Signal Corps Officer
+</col2>
+						<rows>
+							<row>
+								<col1>Salary</col1>
+								<col2>$61,643**</col2>
+								<col3>$45,291</col3>
+								
+							</row>
+							<row>
+								<col1>Housing</col1>
+								<col2>0</col2>
+								<col3>$15,816</col3>
+								
+							</row>
+							<row>
+								<col1>Food Allowance</col1>
+								<col2>0</col2>
+								<col3>$2,249</col3>
+								
+							</row>
+							<row>
+								<col1>Special Pay</col1>
+								<col2>0</col2>
+								<col3>$1,800</col3>
+								
+							</row>
+							<row>
+								<col1>Tax Advantages</col1>
+								<col2>0</col2>
+								<col3>$2,916***</col3>
+								
+							</row>
+							<row>
+								<col1>Health Care</col1>
+								<col2>- $3,695****</col2>
+								<col3>Included</col3>
+								
+							</row>
+							<row total="true">
+								<col1>Net Income</col1>
+								<col2>$57,948</col2>
+								<col3>$68,072</col3>
+								
+							</row>
+
+						</rows>
+					</slide2>
+					<slide3>
+						<copy>Salary and allowances based on 2006 national averages.
+* Sample based on a married Lieutenant (O2) with 4 years service. Figures do not include bonuses. ??** Civilian salary based on national averages. Source: Salary Wizard® at Salary.com.
+*** Tax advantages are an often unseen and overlooked aspect of military pay. Most allowances are tax-exempt. ??**** Health care costs based on a report by the National Coalition on Health Care. http://www.nchc.org/facts/cost.shtml
+
+						</copy>
+					</slide3>
+					<title>An Army Job vs. A Civilian Job</title>
+					<copy><![CDATA[Once you've completed your training in a job specialty (MOS), the Army can be a better option. Here's an example.]]></copy>
+				</paychart>
+				<scholarship>
+					<title>Do You Qualify For A Scholarship?</title>
+					<copy><![CDATA[You'll never know until you apply.]]></copy>
+					<download>Download an application now.</download>
+				</scholarship>
+			</benefits>
+
+			<parents>
+				<title>For Parents</title>
+				<copy><![CDATA[Thanks to your guidance, your child has grown into a young adult with a lot of potential. The Army can help make the most of that potential. But the decision to join the U.S. Army is a big one, one that your family should make together.
+				
+				]]></copy>
+				<influencer>
+					<title>What Parents Have to Say </title>
+					<copy><![CDATA[It's reassuring to hear from families who have experienced the same thing you're going through now. These real-life stories can help you find the answers you're looking for, from questions about joining to career choices and deployment concerns.
+					
+					]]></copy>
+				</influencer>
+				<faq>
+					<title>FAQs For Families</title>
+					<copy><![CDATA[If your son or daughter is thinking about joining the U.S. Army, together should talk to Recruiter. Recruiters are some of the most experienced Soldiers, so they're well qualified to advise if the Army is the right choice and then tailor an Army experience that best meets your goals, wants and needs. Here are some questions you should ask:]]></copy>
+					<questions>
+						<question>
+							<q>Is the Army a good option for my son or daughter?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>What are the enlistment options?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>What kind of training will my son or daughter receive?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>What kinds of jobs are available?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>What kinds of benefits does the Army provide?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>What happens during deployment? </q>
+							<a></a>
+						</question>
+						<question>
+							<q>What is a typical day on Post like?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>How will I communicate with my son or daughter?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>How do I learn more about the Army?</q>
+							<a></a>
+						</question>
+					</questions>
+				</faq>
+				<toolkit>
+					<title>Discussion Toolkit for Parents</title>
+					<copy><![CDATA[This guide can help make it easy for you to talk with your son or daughter about enlisting, planning for the future, and making the most of the Army. Download your copy.]]></copy>
+					<links>
+						<copy><![CDATA[Army Online Support Sites
+						Go there now.
+						]]></copy>
+						<link>www.armyfamiliesonline.com</link>
+						<link>www.armymwr.com</link>
+					</links>
+				</toolkit>
+			</parents>
+
+			<next>
+				<title>Take the Next Step</title>
+				<copy><![CDATA[The best way to start is to talk to a Recruiter. A Recruiter is experienced and can provide the answers you need to make the best decision for your future. Click below and let us help you find one. 
+				
+				]]></copy>
+				<link>Find A Recruiter.</link>
+			</next>
+		</sections>
+
+	</active>
+
+	<reserve>
+		<title>Army Reserve</title>
+		<copy><![CDATA[The Army Reserve enables you to keep your civilian career while you serve your country. You train near home and serve when needed. Find out more about this unique opportunity to be a citizen/Soldier. 
+		]]></copy>
+		<sections>
+			<basic>
+				<title>Basic Combat Training</title>
+				<copy><![CDATA[Here you begin your transformation from civilian to Soldier in the Reserve. In 9 weeks, you will become more confident, disciplined and come to understand the importance of the 7 Army Values, which are the foundation of a Soldier’s character. Soldiers uphold these values and know they can count on their fellow Soldiers to live by these same high standards.]]></copy>
+				<learnmore></learnmore>
+				<basics>
+					<title>THE BASICS OF BASIC</title>
+					<copy>One of the best ways to succeed in Basic is to be in shape. This simple 90-day training schedule will give you a head start. </copy>
+					<download>Download the APFT Training Schedule</download>
+					<tips>Get other tips at www.hooah4health.com</tips>
+				</basics>
+				
+			</basic>
+			<ait>
+				<title>Advanced Individual Training (A.I.T.)</title>
+
+				<copy><![CDATA[Here is where you get to choose and learn your Army job (MOS). In the Army Reserve, you can pick one of over 120 different specialties. The skills, training and experience you gain can make you better at your civilian job or give you an entirely new skill set for a whole new career.
+				
+				]]></copy>
+				<qtvr>
+					<title>Get Into Higher Tech. </title>
+					<copy><![CDATA[In AIT, you will be training on equipment you'd never be able to touch in the civilan world. Take a 360&deg; walk around some that could be part of your Reserve specialty.]]></copy>
+				</qtvr>
+				<insignia>
+					<title>WEAR ONE OF THESE PROUDLY</title>
+					<copy><![CDATA[There are 10 divisions in the U. S. Army. Every Soldier wears their division insignia with pride.]]></copy>	
+					<findout>Find out more about A.I.T. Schools</findout>
+				</insignia>
+				<blackhawk>Do You Have What It Takes To Fly A Blackhawk?
+Have you got the poise, intelligence and reflexes to safely transport your men in time? Click to download "The Blackhawk Challenge" game and see. 
+				</blackhawk>
+				<develop>
+					<title>DEVELOP THE SKILLS OF A SOLDIER</title>
+					<copy>Experience firsthand some of the skills Soldiers learn in the AIT in these three games.</copy>
+				</develop>
+			</ait>
+			<careers>
+				<title>Career Choices</title>
+				<copy><![CDATA[There is no limit to the opportunities in the Army Reserve and no limit to what you can learn and achieve. With over 120 different jobs (MOSs), there's an Army Reserve job right for you—one that can help you build on your civilian job skills or teach you entirely new ones. Either way, you can gain an edge over those in the civilian world.
+				]]></copy>
+				<mos>
+					<copy><![CDATA[What's going to be your specialty?
+					]]></copy>
+					<select>Select one of these categories to find the job (MOS) that most closely 
+					</select>
+				</mos>
+			</careers>
+			<community>
+				<title>THE COMMUNITY YOU SERVE</title>
+				<copy>As a member of the Army Reserve, you are both civilian and Soldier. As a civilian, you bring valuable job skills that enable you to succeed as a Soldier. As a Soldier, you learn additional skills that can further your civilian career. You not only feel the pride of serving your country and community, you can also count on an extensive range of benefits and family support services.</copy>
+				<where>
+					<title>How Close to Home Can You Train?</title>
+					<copy>In most cases, it’s no more than 40 miles from where you live. Enter your ZIP code and see how close to home your training could be. </copy>
+					<click>CLICK ON THE GLOBE TO BEGIN YOUR SEARCH</click>
+				</where>
+				<citizen>
+					<title>A CITIZEN, AND A SOLDIER</title>
+					<copy>Learn how being in the Army Reserve has made a big difference in the lives of these men and women.</copy>
+					<videos>
+						<jessica>
+							<title>SPC Jessica Smothers</title>
+							<copy>See how Jessica balances being a mother, wife and a Soldier.</copy>
+						</jessica>
+						<david>
+							<title>SGT David Abreau</title>
+							<copy>Learn how David’s training as a Soldier helps him as a firefighter.</copy>
+						</david>
+						<jason>
+							<title>SPC Jason Trolard</title>
+							<copy>See how the Army Reserve has given Jason the strength to achieve his goals.</copy>						
+						</jason>
+					</videos>
+				</citizen>
+			</community>
+			<benefits>
+			
+			
+			
+
+			
+				<title>Benefits</title>
+				<copy><![CDATA[As a Soldier in the Army Reserve you earn Drill Pay while training on weekends and during full-time training events. This salary, which is in addition to your civilian pay, increases as you climb in rank and years of experience. The Army Reserve also offers enlistment bonuses, money for education, comprehensive health care, a retirement savings plan, and more.
+				
+				]]></copy>
+				
+
+				
+				<slideshow>
+					<title>OFFICER</title>
+					<copy>What you could earn as a Reserve Soldier.
+					
+This could be your Drill Pay training two weeks of training each year and one weekend each month. You could earn even more with bonuses, allowances and other benefits.</copy>
+					<tabs>
+						<tab>
+							<title>Enlisted</title>
+							<copy><![CDATA[What you could earn as a Reserve Soldier.]]></copy>
+						</tab>
+						<tab>
+							<title>Officer</title>
+							<copy><![CDATA[This could be your Drill Pay training two weeks of training each year and one weekend each month. You could earn even more with bonuses, allowances and other benefits.]]></copy>
+						</tab>
+					</tabs>
+				</slideshow>
+				<further>
+					<title>Further Your Education</title>
+					<copy><![CDATA[If you qualify, the Army can help you pay for college. Here's what you could receive. 
+
+Up to $20,000 to repay student loans   
+Up to $23,724 to pay for college 
+Up to $20,000 in enlistment bonuses
+Up to a $4,000 bonus for accrued college credit
+
+					]]></copy>
+				</further>
+			</benefits>
+			<next>
+				<title>Take the Next Step</title>
+				<copy><![CDATA[The best way to start is to talk to a Recruiter. A Recruiter is experienced and can provide the answers you need to make the best decision for your future. Click below and let us help you find one. 
+				
+				]]></copy>
+				<link>Find A Recruiter.</link>
+				<faq>
+					<title>What To Ask A Recruiter</title>
+					<copy><![CDATA[The answers to these questions can help guide your decision about what's best for you.]]></copy>
+					<questions>
+						<question>
+							<q>Which option is best for me: Army Active Duty, Army Reserve or ROTC?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>How long will I serve?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>What are my options?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>What kind of job training can I qualify for?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>Where will I be stationed?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>Can I bring my family?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>How can the Army help me get a college education?</q>
+							<a></a>
+						</question>
+					</questions>
+				</faq>
+			</next>
+
+		</sections>
+		
+	</reserve>
+
+	<rotc>
+		<title>Reserve Officer Training Course (ROTC)</title>
+		<copy><![CDATA[Army Reserve Officers' Training Corps (ROTC) is one of the best leadership courses in the country and is an elective part of your regular college curriculum. You learn first-hand what it takes to lead and motivate others, and how to conduct missions as an Officer in the Army. You graduate Army ROTC as a commissioned officer, proudly wearing the bar of a Second Lieutenant.]]></copy>
+		
+		<sections>
+			<curriculum>
+				
+				<title>College Curriculum</title>
+				<copy><![CDATA[As an Army ROTC cadet, you take a series of electives and lab workshops each year. After completing the Basic Course in your first two years, you finish with the Advanced Course in your Junior and Senior year. Those wishing to take a faster track or who have missed the Basic Course, may fulfill that requirement by taking the 4-week Leadership Training Course (LTC) in the summer.]]></copy>
+				<basiclink><![CDATA[<a href="http://goarmy.com">Basic Courses</a>]]></basiclink>
+				<advancedlink><![CDATA[<a href="http://goarmy.com">Courses</a>]]></advancedlink>
+				<!--multiplechoice>
+					<title>Earn Your Bars</title>
+					<copy><![CDATA[To become an Officer in the United States Army, you must display knowledge of military strategy and demonstrate your leadership skills. See how high a rank you can achieve.
+					]]></copy>
+					
+					<questions>
+						<question>
+							<q>what is your favourite colour?</q>
+							<answers>
+								<answer correct="true">red</answer>
+								<answer>green</answer>
+								<answer>blue</answer>
+								<answer>red</answer>
+							</answers>
+						</question>
+					</questions>
+				</multiplechoice-->
+				<click>CLICK HERE TO FIND A SCHOOL</click>
+				<courses>
+					<title>Where You Can Take Army ROTC Courses</title>
+					<copy><![CDATA[Over 1,500 colleges and universities across the country offer Army ROTC courses or are affiliated with nearby schools that do.]]></copy>
+				</courses>
+				<icons>
+					<title>GET AN ARMY ICON </title>
+					<copy><![CDATA[It can be your personal Instant Message (IM) or simply a way to show your support for the men and women serving our country.]]></copy>
+					<download><![CDATA[<a href="http://goarmy.com">Download Now</a>]]></download>
+				</icons>
+				<speak>
+					<title>SPEAK LIKE AN ARMY LEADER </title>
+					<copy><![CDATA[The Army uses acronyms and terms most of us don't know. Here's what some of them mean.]]></copy>
+				</speak>
+				
+			</curriculum>
+			<careers>
+				<title>Career Choices</title>
+				<copy><![CDATA[With the leadership skills, training and experience you've gained in the Army ROTC, your future is wide open. You can pursue a number of career fields as an Officer in the Army and select from one of over a dozen specialties that can take you even further.]]></copy>
+				<mos>What's Kind of Officer Do You Want to Be?</mos>
+				<insignia>
+					<title>The Rewards of Leadership</title>
+					<copy><![CDATA[Placeholder Insignia Rank]]></copy>
+				</insignia>
+				<aim>
+					<title>Get an Army Icon.</title>
+					<copy><![CDATA[It can be your personal IM image or simply a way to show your support for the men and women serving our country.]]></copy>				
+				</aim>
+			</careers>
+			<section>
+				<title>Scholarships</title>
+				<copy><![CDATA[Specialized classes, advanced training and leadership preparation are only some of the ways ROTC makes you strong you for today and tomorrow. You may also qualify for financial benefits that will cover your tuition and offer allowances for day-to-day expenses.]]></copy>
+				<chart>
+					<twoyears>
+						<copy><![CDATA[Be a U.S. citizen
+Have two academic years of college remaining 
+Be between ages 17 and 27
+Have a College GPA of at least 2.5
+Have a high school diploma or equivalent
+Meet physical standards
+Agree to accept a commission and serve in the Army on Active Duty or in the U.S. Army Reserve or Army National Guard 
+
+						
+						]]></copy>
+					</twoyears>
+					<threeyears>
+						<copy><![CDATA[Be a U.S. citizen
+Already be enrolled in a college or university with three academic years remaining
+Be between ages 17 and 27
+Have a College GPA of at least 2.5
+Have a high school diploma or equivalent
+Score minimum 920 on the SAT or 19 on the ACT
+Meet physical standards
+Agree to accept a commission and serve in the Army on Active Duty or in the U.S. Army Reserve or Army National Guard 
+						]]></copy>
+					</threeyears>
+					<fouryears>
+						<copy><![CDATA[Be a U.S. citizen
+Be a college freshman in the first year of a five-year undergraduate plan
+Be between the ages of 17 and 26
+Have a high school GPA of at least 2.50
+Have a high school diploma or equivalent
+Score minimum of 920 on the SAT or 19 on the ACT
+Meet physical standards
+Agree to accept a commission and serve in the Army on Active Duty or in the U.S. Army Reserve or Army National Guard
+
+						
+						]]></copy>
+					</fouryears>
+
+				</chart>
+				<pdf>
+					<title>Get An Application.</title>
+				</pdf>
+			</section>
+			<section>
+				<title>For Parents</title>
+				<copy><![CDATA[Thanks to your guidance, your child has grown into a young adult with much potential. The Army ROTC can make the most of that potential by helping your son or daughter become a well-trained, highly disciplined and motivated leader. But Army ROTC is a very demanding program and the decision to enroll is one that your family should make together.]]></copy>
+				<faq>
+					<title>FAQs For Parents</title>
+					<copy><![CDATA[The answers to all these questions can be found at goarmy.com/for_parents/rotc/jsp.]]></copy>
+					<questions>
+						<question>
+							<q>Is enrolling in Army ROTC the same as joining the Army? Once a student starts taking ROTC courses, is he/she obligated to join the Army?</q>
+							<a>Young adults must serve as Officers in the Army after graduation if they have received an ROTC scholarship, or if they have enrolled in the ROTC Advanced Course. Enrolling in the ROTC Basic Course (the first two years of college) does NOT obligate someone to serve unless they have also received a scholarship. For more details, see: Your Commitment.</a>
+						</question>
+						<question>
+							<q>What kinds of scholarships are available in Army ROTC? </q>
+							<a>Army ROTC scholarships vary based on the length of time remaining for students to complete their degrees. There are two-, three- and four-year scholarships, which pay for tuition and fees up to $20,000 per year. Scholarships also include annual book allowances and a monthly stipend. Army ROTC scholarships are not retroactive.</a>
+						</question>
+						<question>
+							<q>What is my young adult's Army service obligation to pay back any scholarship benefits, or for enrollment in the ROTC Advanced Course?</q>
+							<a>Scholarship winners must serve for four years; non-scholarship Cadets who enroll in the ROTC Advanced Course must serve for three years. All who graduate and complete ROTC training are commissioned as Second Lieutenants in the U.S. Army.</a>
+						</question>
+						<question>
+							<q>What good is Army ROTC for a career outside of the Army?</q>
+							<a>Army ROTC is one of the only college courses that teaches leadership. This training is invaluable for any career that involves leading, managing and motivating people or fostering teamwork. Young Army Officers are typically responsible for hundreds of Soldiers and millions of dollars in equipment; this kind of management experience can be very attractive for post-Army employers.</a>
+						</question>
+						<question>
+							<q>Why should my young adult choose Army ROTC over a different branch's ROTC?</q>
+							<a>The Army offers a wider range of career opportunities, in more places around the world, then any other U.S. military branch.</a>
+						</question>
+						<question>
+							<q>Are all college majors compatible with Army ROTC?</q>
+							<a>Army ROTC Cadets are allowed to major in nearly all academic areas.</a>
+						</question>
+						<question>
+							<q>What are Army ROTC courses like? How will the class work help my young adult? Will ROTC classes interfere with his/her other studies?</q>
+							<a>Army ROTC classes normally involve one elective class or lab per semester. Although the classes involve hands-on fieldwork as well as classroom work, they are standard college classes that fit into a normal academic schedule. These courses can help students with personal and academic decision-making while giving them the tools to exercise leadership in college life, even before graduating and becoming Officers.</a>
+						</question>
+						<question>
+							<q>How will being an Army ROTC Cadet affect my young adult's daily life? Do Cadets experience normal college life and activities?</q>
+							<a>Army ROTC Cadets have the same lifestyles and academic schedules as any other college students. But there are two intensive Army ROTC courses that take place on Army Posts, usually during the summer:
+Leader's Training Course—This four-week summer course at Fort Knox, KY is ONLY for students who enroll in Army ROTC going into their junior years without having taken the first two years of military science classes.
+Leader Development and Assessment Course—All Cadets who enter the Advanced Course must attend this four-week summer course at Fort Lewis, WA between their junior and senior years.</a>
+						</question>
+						<question>
+							<q>Can my young adult go into the Army Reserve or National Guard after graduation instead of the regular Army?</q>
+							<a>Yes. Selected Cadets may choose to serve part-time in the U.S. Army Reserve or Army National Guard while pursuing a civilian career.</a>
+						</question>
+						<question>
+							<q>What is the typical career path for an Army Officer? What career fields are available?</q>
+							<a>Army ROTC graduates are commissioned as U.S. Army Second Lieutenants. They then receive specialized training in one of 17 different Army branches. During their Army careers, they'll receive regular professional training as they advance through the ranks, and they'll have many opportunities for advanced leadership positions and post-graduate education.</a>
+						</question>
+
+						
+					</questions>
+				</faq>
+			</section>
+			<nextstep>
+				<title>Take the Next Step</title>
+				<copy><![CDATA[The best way to start is to talk with an Army ROTC Advisor in your home state or in the state of the school your son or daughter will be attending. The Advisor can provide the answers you need to decide about whether Army ROTC is the best choice. Click below and let us help you find one.
+				
+				]]></copy>
+				<link><![CDATA[<a href="#">Find An Army ROTC Advisor</a>]]></link>
+				<faq>
+					<title>What To Ask An ROTC Advisor</title>
+					<copy><![CDATA[The answers to these questions can help guide your decision about what's best for you.]]></copy>
+					<questions>
+						<question>
+							<q>Which option is best for me: Army Active Duty, Army Reserve or ROTC?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>How long will I serve?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>What are my options?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>What kind of job training can I qualify for?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>Where will I be stationed?</q>
+							<a></a>
+						</question>
+						<question>
+							<q>How can the Army help me get a college education?</q>
+							<a></a>
+						</question>
+					</questions>
+				</faq>
+			</nextstep>
+		</sections>
+	
+	</rotc>
+
+
+
+
+
+	<basic>
+		<readyforbasic>
+			<title>Ready for Basic?</title>
+			<copy><![CDATA[The best way to do Basic is to be in shape. This simple program will help.
+
+			The Push-Up
+			50 every day, 2x a day
+
+			The Pull-Up
+			20 every day, 2x a day
+
+			The Sit-Up
+			100 every day, 2x a day
+
+			Water
+			Staying hydrated is key to staying healthy and fit. Drink 8 16-oz. glasses every day.
+
+			]]></copy>
+
+		</readyforbasic>
+	</basic>
+	<armyvalues>
+		<armyvalue>
+			<title>Loyalty</title>
+			<copy><![CDATA[As a Soldier, you bear true faith and allegiance to the U.S. Constitution, the Army, your unit and your fellow Soldiers.]]></copy>
+		</armyvalue>
+		<armyvalue>
+			<title>Duty</title>
+			<copy><![CDATA[Doing your duty means fulfilling your obligations to carry out your assigned tasks and accomplishing them as part of a team.]]></copy>
+		</armyvalue>
+		<armyvalue>
+			<title>Respect</title>
+			<copy><![CDATA[It's a pledge to treat people as they should be treated, and it's how you would expect others to treat you.]]></copy>
+		</armyvalue>
+		<armyvalue>
+			<title>Selfless Service</title>
+			<copy><![CDATA[It's about putting the welfare of the Nation, the Army and your subordinates before your own.]]></copy>
+		</armyvalue>
+		<armyvalue>
+			<title>Honor</title>
+			<copy><![CDATA[As a Soldier, you maintain honor by adhering to and upholding the Army Values every day, in everything you do.]]></copy>
+		</armyvalue>
+		<armyvalue>
+			<title>Integrity</title>
+			<copy><![CDATA[You are expected do what's right, legally and morally. That means doing and saying nothing that deceives others.]]></copy>
+		</armyvalue>
+		<armyvalue>
+			<title>Personal Courage</title>
+			<copy><![CDATA[It is learning to face fear, danger or adversity&mdash;physical or moral&mdash;without backing down.]]></copy>
+		</armyvalue>
+	</armyvalues>
+	<speak>
+		<title>Speak Like A Soldier</title>
+		<copy><![CDATA[The Army uses words and terms most of us don't know. Here's what some of them mean.
+		]]></copy>
+		<terms>
+			<term>
+				<term>Placeholder Term</term>
+				<definition>Placeholder Definition
+				</definition>
+			</term>
+			<term>
+				<term>Placeholder Term</term>
+				<definition>Placeholder Definition
+				</definition>
+			</term>
+			<term>
+				<term>Placeholder Term</term>
+				<definition>Placeholder Definition
+				</definition>
+			</term>
+			<term>
+				<term>Placeholder Term</term>
+				<definition>Placeholder Definition
+				</definition>
+			</term>
+			<term>
+				<term>Placeholder Term</term>
+				<definition>Placeholder Definition
+				</definition>
+			</term>
+			<term>
+				<term>Placeholder Term</term>
+				<definition>Placeholder Definition
+				</definition>
+			</term>
+			<term>
+				<term>Placeholder Term</term>
+				<definition>Placeholder Definition
+				</definition>
+			</term>
+			<term>
+				<term>Placeholder Term</term>
+				<definition>Placeholder Definition
+				</definition>
+			</term>
+		</terms>
+	</speak>
+
+	<ait_qtvr>
+		<items>
+			<item>
+				<title>STRYKER</title>
+				<img>img/qtvr/stryker.jpg</img>
+				<swf>swf/qtvr/stryker.swf</swf>
+			</item>
+			<item>
+				<title>LAND WARRIOR</title>
+				<img>img/qtvr/landwarrior.jpg</img>
+				<swf>swf/qtvr/landwarrior.swf</swf>
+			</item>
+			<item>
+				<title>TUAV</title>
+				<img>img/qtvr/tuav.jpg</img>
+				<swf>swf/qtvr/tuav.swf</swf>
+			</item>
+			<item>
+				<title>APACHE</title>
+				<img>img/qtvr/apache.jpg</img>
+				<swf>swf/qtvr/apache.swf</swf>
+			</item>
+
+		</items>
+	</ait_qtvr>
+	<lifeonapost>
+	
+	</lifeonapost>
+
+
+
+</strings>

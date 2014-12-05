@@ -1,0 +1,15 @@
+<content clip="Template_ait">
+	<fields>
+		<textfield name="mc_topleft.tf_title" text="string:active/sections/ait/title" />
+		<textfield name="mc_topleft.tf_copy"  text="string:active/sections/ait/copy" />
+		<textfield name="mc_botleft.tf_title" text="string:active/sections/ait/qtvr/title" />
+		<textfield name="mc_botleft.tf_copy"  text="string:active/sections/ait/qtvr/copy" />
+		<textfield name="mc_botright.tf_title" text="string:active/sections/ait/blackhawk/title" />
+		<textfield name="mc_botright.tf_copy"  text="string:active/sections/ait/blackhawk/copy" />
+		<textfield name="mc_botright.tf_link"  text="string:active/sections/ait/link"/>
+	</fields>
+	<clips>
+		<clip name="mc_img" type="Loader" contentPath="consumer_header.swf" />
+		<clip name="mc_sp" type="ScrollPane" contentPath="contacts.mc_contacts" borderStyle="none" />
+	</clips>
+</content>

@@ -1,0 +1,33 @@
+<content clip="Template_curriculum_rotc">
+	<fields>
+		<textfield name="mc_panels.mc_topleft.tf_title" text="string:rotc/sections/curriculum/title" />
+		<textfield name="mc_panels.mc_topleft.tf_copy"  text="string:rotc/sections/curriculum/copy" />		
+		<textfield name="mc_panels.mc_topleft.tf_link1" text="string:rotc/sections/curriculum/basiclink" />
+		<textfield name="mc_panels.mc_topleft.tf_link2"  text="string:rotc/sections/curriculum/advancedlink" />	
+		
+		
+		<textfield name="mc_panels.mc_bottomleft.tf_title" text="string:rotc/sections/curriculum/courses/title"/>
+		<textfield name="mc_panels.mc_bottomleft.tf_copy" text="string:rotc/sections/curriculum/courses/copy"/>
+		<textfield name="mc_panels.mc_bottomleft.mc_click.tf_click" text="string:rotc/sections/curriculum/click"/>
+		
+		<textfield name="mc_panels.mc_topright.tf_title" text="string:rotc/sections/curriculum/icons/title" />
+		<textfield name="mc_panels.mc_topright.tf_copy"  text="string:rotc/sections/curriculum/icons/copy" />	
+		<textfield name="mc_panels.mc_topright.tf_link1"  text="string:rotc/sections/curriculum/icons/download" />
+		
+		
+		<textfield name="mc_panels.mc_bottomright.tf_title" text="string:rotc/sections/curriculum/speak/title"/>
+		<textfield name="mc_panels.mc_bottomright.tf_copy" text="string:rotc/sections/curriculum/speak/copy"/>
+		
+		<textfield name="mc_panels.mc_nextstep.tf_title" text="string:rotc/sections/nextstep/title"/>
+		<textfield name="mc_panels.mc_nextstep.tf_copy" text="string:rotc/sections/nextstep/copy"/>
+		<textfield name="mc_panels.mc_nextstep.tf_rotclink" text="string:rotc/sections/nextstep/link"/>
+		
+		<textfield name="mc_panels.mc_nextstep.tf_faq_title" text="string:rotc/sections/nextstep/faq/title"/>
+		<textfield name="mc_panels.mc_nextstep.tf_faq_copy" text="string:rotc/sections/nextstep/faq/copy"/>
+		
+	</fields>
+	<clips>
+		<clip name="mc_panels.mc_icon" type="IMIcon" contentPath="mc_topright" xmlPath="xml/rotc/aimicons.xml" imgPath="img/im_thumbs/"/>	
+		<clip name="mc_panels.mc_bottomright.mc_sp" type="ScrollPane" contentPath="Template_curriculum_rotc.SpeakLikeASoldier" borderStyle="none" />
+	</clips>
+</content>

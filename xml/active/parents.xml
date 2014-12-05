@@ -1,0 +1,11 @@
+<content clip="Template_parents">
+	<fields>
+		<textfield name="tf_title" text="string:active/sections/careers/title" />
+		<textfield name="tf_copy"  text="string:active/sections/careers/copy" />
+	</fields>
+	<clips>
+		
+		
+		
+	</clips>
+</content>

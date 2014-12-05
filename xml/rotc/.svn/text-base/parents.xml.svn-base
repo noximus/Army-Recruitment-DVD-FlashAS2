@@ -1,0 +1,1 @@
+<content clip="Template_parents_rotc">	<fields>		<textfield name="tf_title" text="string:rotc/sections/careers/title" />		<textfield name="tf_copy"  text="string:rotc/sections/careers/copy" />	</fields>	<clips>							</clips></content>

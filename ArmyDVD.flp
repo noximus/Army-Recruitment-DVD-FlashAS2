@@ -1,0 +1,48 @@
+﻿<flash_project name="ArmyDVD" version="1">
+    <project_folder name="classes" expanded="true">
+        <project_folder name="ui" expanded="true">
+            <project_folder name="nav" expanded="true">
+                <project_file path=".:classes/ui/nav/NavigationItem.as" filetype="as" />
+                <project_file path=".:classes/ui/nav/Navigation.as" filetype="as" />
+            </project_folder>
+            <project_folder name="photogallery" expanded="true">
+                <project_file path=".:classes/ui/photogallery/PhotoGallery.as" filetype="as" />
+                <project_file path=".:classes/ui/photogallery/Image.as" filetype="as" />
+                <project_file path=".:classes/ui/photogallery/Thumb.as" filetype="as" />
+                <project_file path=".:classes/ui/photogallery/Isthis.as" filetype="as" />
+                <project_file path=".:classes/ui/photogallery/Thumb_life.as" filetype="as" />
+            </project_folder>
+            <project_folder name="main" expanded="true">
+                <project_file path=".:classes/ui/main/Submenuitem.as" filetype="as" />
+                <project_file path=".:classes/ui/main/Character.as" filetype="as" />
+                <project_file path=".:classes/ui/main/MainNavigation.as" filetype="as" />
+                <project_file path=".:classes/ui/main/Subnav.as" filetype="as" />
+                <project_file path=".:classes/ui/main/Stripe.as" filetype="as" />
+            </project_folder>
+            <project_folder name="qtvr" expanded="false">
+                <project_file path=".:classes/ui/qtvr/QTVR.as" filetype="as" />
+                <project_file path=".:classes/ui/qtvr/Thumb.as" filetype="as" />
+            </project_folder>
+            <project_folder name="widget" expanded="true">
+                <project_folder name="values" expanded="false">
+                    <project_file path=".:classes/ui/widget/values/ValueScroller.as" filetype="as" />
+                    <project_file path=".:classes/ui/widget/values/Value.as" filetype="as" />
+                    <project_file path=".:classes/ui/widget/values/ValueExplorer.as" filetype="as" />
+                </project_folder>
+            </project_folder>
+            <project_file path=".:classes/ui/Section.as" filetype="as" />
+            <project_file path=".:classes/ui/VideoMC.as" filetype="as" />
+            <project_file path=".:classes/ui/SpeakLikeASoldier.as" filetype="as" />
+            <project_file path=".:classes/ui/Ready.as" filetype="as" />
+        </project_folder>
+        <project_folder name="utils" expanded="true">
+            <project_file path=".:classes/util/eric/Extensions.as" filetype="as" />
+        </project_folder>
+        <project_file path=".:classes/ArmyDVD.as" filetype="as" />
+        <project_file path=".:classes/Settings.as" filetype="as" />
+        <project_file path=".:classes/Sounds.as" filetype="as" />
+    </project_folder>
+    <project_file path=".:ArmyDVD.fla" filetype="fla" profile="" />
+    <project_file path=".:InTheArmyNow2.fla" filetype="fla" profile="" />
+    <project_file path=".:ArmyDVD.root.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

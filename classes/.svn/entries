@@ -1,0 +1,89 @@
+8
+
+dir
+268
+svn://11235813.com:5190/army/armyDVD/classes
+svn://11235813.com:5190
+
+
+
+2007-01-31T19:10:43.440658Z
+266
+eric
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cfc2c80d-111e-0410-974c-a54a116c88f9
+
+type
+dir
+
+Settings.as
+file
+251
+
+
+
+2007-01-31T15:37:44.000000Z
+f13658917b79607a2449f04a27f174ac
+2007-01-31T06:10:07.433391Z
+245
+eric
+
+ArmyDVD.as
+file
+
+
+
+
+2007-01-31T19:39:46.000000Z
+013dd96ef1f4e61f96923df1ec2e896a
+2007-01-31T16:59:22.797269Z
+255
+chris
+
+Globe.as
+file
+251
+
+
+
+2007-01-31T15:37:44.000000Z
+7d029ff6df92c735324ce5d6dddcba11
+2007-01-31T14:50:12.912315Z
+248
+chris
+
+ui
+dir
+
+util
+dir
+
+Sounds.as
+file
+251
+
+
+
+2007-01-29T21:38:41.000000Z
+8caee40a8f5d453f99aea255bb2a93f0
+2007-01-28T00:48:54.834144Z
+162
+eric
+has-props
+
+com
+dir
+

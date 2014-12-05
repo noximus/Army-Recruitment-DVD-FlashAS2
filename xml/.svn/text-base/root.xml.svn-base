@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<army>
+	<home>xml/home.xml</home>
+	<langs>
+		<lang lang="en">xml/strings.xml</lang>
+	</langs>
+	<menuitems>
+		<active>
+			<items>
+				<item>
+					<id>basic</id>
+					<title>BASIC TRAINING</title>
+					<target>mc_basic</target>
+					<xml>xml/[section]/basic.xml</xml>
+				</item>
+				<item>
+					<id>ait</id>
+					<title>A.I.T.</title>
+					<target>mc_ait</target>
+					<xml>xml/[section]/ait.xml</xml>
+				</item>
+				<item>
+					<id>careers</id>
+					<title>CAREERS</title>
+					<target>mc_careers</target>
+					<xml>xml/[section]/careers.xml</xml>
+				</item>
+				<item>
+					<id>benefits</id>
+					<title>BENEFITS</title>
+					<target>mc_benefits</target>
+					<xml>xml/[section]/benefits.xml</xml>
+				</item>
+				<item>
+					<id>life</id>
+					<title>LIFE ON POST</title>
+					<target>mc_life</target>
+					<xml>xml/[section]/life.xml</xml>
+				</item>
+				<item>
+					<id>parents</id>
+					<title>FOR PARENTS</title>
+					<target>mc_parents</target>
+					<xml>xml/[section]/parents.xml</xml>
+				</item>
+			</items>
+		</active>
+		<rotc>
+			<items>
+				<item>
+					<id>curriculum</id>
+					<title>COLLEGE CURRICULUM</title>
+					<target>mc_curriculum</target>
+					<xml>xml/[section]/curriculum.xml</xml>
+				</item>
+				<item>
+					<id>career</id>
+					<title>CAREER CHOICES</title>
+					<target>mc_careers</target>
+					<xml>xml/[section]/careers.xml</xml>
+				</item>
+				<item>
+					<id>scholarships</id>
+					<title>SCHOLARSHIPS</title>
+					<target>mc_scholarships</target>
+					<xml>xml/[section]/scholarships.xml</xml>
+				</item>
+				<item>
+					<id>parents</id>
+					<title>FOR PARENTS</title>
+					<target>mc_parents</target>
+					<xml>xml/[section]/parents.xml</xml>
+				</item>
+			</items>
+		</rotc>
+		<reserve>
+			<items>
+				<item>
+					<id>basic</id>
+					<title>BASIC TRAINING</title>
+					<target>mc_basic</target>
+					<xml>xml/[section]/basic.xml</xml>
+				</item>
+				<item>
+					<id>ait</id>
+					<title>A.I.T.</title>
+					<target>mc_ait</target>
+					<xml>xml/[section]/ait.xml</xml>
+				</item>
+				<item>
+					<id>careers</id>
+					<title>CAREERS</title>
+					<target>mc_careers</target>
+					<xml>xml/[section]/careers.xml</xml>
+				</item>
+				<item>
+					<id>community</id>
+					<title>COMMUNITY</title>
+					<target>mc_community</target>
+					<xml>xml/[section]/community.xml</xml>
+				</item>
+				<item>
+					<id>benefits</id>
+					<title>BENEFITS</title>
+					<target>mc_benefits</target>
+					<xml>xml/[section]/benefits.xml</xml>
+				</item>
+			</items>
+		</reserve>
+		<menuitem name="string:rollovers/active" sectionID="active">
+			<items>
+				
+			</items>
+		</menuitem>
+		<menuitem name="string:rollovers/reserve" sectionID="reserve">
+			<items>
+				<!--
+					<item 
+						id="creativeidea"
+						xml="xml/creativeidea.xml"
+						name="the creative idea" />
+					<item 
+						id="campaignimages"
+						xml="xml/campaignimages.xml"
+						name="string:menuitems/menuitem2/items/item2/name" />
+					<item 
+						xml="xml/leads.xml"
+						name="string:menuitems/menuitem2/items/item3/name" />
+				-->
+			</items>
+		</menuitem>
+		<menuitem name="string:rollovers/rotc" sectionID="rotc">
+			<items>
+
+
+
+
+			</items>
+		</menuitem>
+	</menuitems>
+	
+	
+	<navigation>
+		<items>
+			<item>
+				<id>basic</id>
+				<title>BASIC TRAINING</title>
+				<target>mc_basic</target>
+				<xml>xml/[section]/basic.xml</xml>
+			</item>
+			<item>
+				<id>ait</id>
+				<title>A.I.T.</title>
+				<target>mc_ait</target>
+				<xml>xml/[section]/ait.xml</xml>
+			</item>
+			<item>
+				<id>careers</id>
+				<title>CAREERS</title>
+				<target>mc_careers</target>
+				<xml>xml/[section]/careers.xml</xml>
+			</item>
+			<item>
+				<id>benefits</id>
+				<title>BENEFITS</title>
+				<target>mc_benefits</target>
+				<xml>xml/[section]/benefits.xml</xml>
+			</item>
+			<item>
+				<id>life</id>
+				<title>LIFE ON POST</title>
+				<target>mc_life</target>
+				<xml>xml/[section]/life.xml</xml>
+			</item>
+			<item>
+				<id>parents</id>
+				<title>FOR PARENTS</title>
+				<target>mc_parents</target>
+				<xml>xml/[section]/parents.xml</xml>
+			</item>
+
+		</items>
+	</navigation>
+	
+	
+</army>

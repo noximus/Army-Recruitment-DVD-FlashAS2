@@ -1,0 +1,11 @@
+<content clip="Templates_careers_reserves">
+	<fields>
+		<textfield name="mc_panel.tf_title" text="string:reserve/sections/careers/title" />
+		<textfield name="mc_panel.tf_copy"  text="string:reserve/sections/careers/copy" />
+	</fields>
+	<clips>
+		<clip name="mc_matrix" type="CareerMatrix" contentPath="mc_careers.mc_matrix" xmlPath="xml/active/careermatrix.xml" thumbPath="img/career_thumbs/"/>
+		
+		
+	</clips>
+</content>

@@ -1,0 +1,55 @@
+8
+
+dir
+251
+svn://11235813.com:5190/army/armyDVD/classes/com/mrmnydev/transition
+svn://11235813.com:5190
+
+
+
+2007-01-25T23:46:09.239093Z
+134
+chris
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cfc2c80d-111e-0410-974c-a54a116c88f9
+
+ColorTween.as
+file
+
+
+
+
+2007-01-26T19:39:00.000000Z
+e16caf27c77730aa7260ac94bd8ecd3b
+2007-01-25T23:46:09.239093Z
+134
+chris
+
+Tween.as
+file
+
+
+
+
+2007-01-26T19:39:00.000000Z
+c66f9e6e9f8c94eb3905f05cbe0647a2
+2007-01-19T23:49:28.594655Z
+95
+chris
+
+easing
+dir
+

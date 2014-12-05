@@ -1,0 +1,103 @@
+﻿import mx.utils.Delegate;
+import util.xml.XMLSA;
+import com.senocular.ColorFader;
+import mx.transitions.Tween;
+import mx.transitions.easing.None;
+import mx.transitions.easing.Strong;
+import mx.transitions.easing.Regular;
+import flash.filters.BitmapFilter;
+import flash.filters.ColorMatrixFilter;
+
+class ui.photogallery.Thumb extends MovieClip{
+	private var mc:MovieClip;
+	public var mc_border:MovieClip;
+	public var mc_img:MovieClip;
+	
+	private static var activeThumb:Thumb=null;
+	private var saturation:Number;
+	private var saturationTween:Tween;
+	private var green:Number=0x7D9364;
+	private var yellow:Number=0xFFCC00;
+	private var white:Number=0xFFFFFF;
+	private var _xml:XMLSA;
+	private var _i:Number;
+	
+	private var colorfader:ColorFader;
+	
+	private function init():Void{
+		mc=this;
+		colorfader = new ColorFader(mc_border);
+		colorfader.fadeTo(green,1);
+		EnableMouseEvents();
+		
+		mc_img.loadMovie(this.xml.attributes.thumb);
+		saturate(1.1, .7, 30);
+		
+	}
+	private function saturate(from:Number, to:Number, time:Number){
+		saturationTween = new Tween(this, "saturation", None.easeNone, from, to, time, false);
+		saturationTween.onMotionChanged = function(){
+			var matrix:Array = new Array();
+			var target_mc=this.obj;
+			matrix = matrix.concat([target_mc.saturation, 0, 0, 0, 0]); // red
+			matrix = matrix.concat([0, target_mc.saturation, 0, 0, 0]); // green
+			matrix = matrix.concat([0, 0, target_mc.saturation, 0, 0]); // blue
+			matrix = matrix.concat([0, 0, 0, 1, 0]); // alpha
+			var filter = new ColorMatrixFilter(matrix);
+			target_mc.filters = new Array(filter);
+		}
+	}
+	private function EnableMouseEvents():Void{
+		this.onRollOver=Delegate.create(this,RollOver);
+		this.onRollOut=Delegate.create(this,RollOut);
+		this.onPress=Delegate.create(this,Press);		
+	}
+
+	public function Select():Void{
+		colorfader.fadeTo(yellow);
+		DisableMouseEvents();
+		activeThumb.Unselect();
+		activeThumb=this;
+		saturate(saturation,1,4);
+		this._parent._parent.LoadImage(i);
+		
+	}
+	public function Unselect():Void{
+		EnableMouseEvents();
+		colorfader.fadeTo(green,200);
+		saturate(saturation,.7,15);
+	}
+	private function RollOver():Void{
+		colorfader.fadeTo(yellow,10);
+		saturate(saturation,1.2,4);
+	}
+	private function RollOut():Void{
+		colorfader.fadeTo(green,400);
+		saturate(saturation,.7,15);
+	}
+	private function Press():Void{
+		Select();
+	}
+	private function DisableMouseEvents():Void{
+		delete(this.onPress);
+		delete(this.onRollOver);
+		delete(this.onRollOut);
+	}
+	
+	public function get xml():XMLSA{
+		return _xml;
+	}
+	public function set xml(val:XMLSA):Void{
+		_xml=val;
+		init();
+	}
+	public function get i():Number{
+		return _i;
+	}
+	public function set i(val:Number):Void{
+		_i=val;
+	}
+	
+
+	
+}

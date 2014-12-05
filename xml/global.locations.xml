@@ -1,0 +1,35 @@
+<locations>
+	<location latitude="35 N" longitude="139 E">
+		<name place="Tokyo">Tokyo</name>
+	</location>
+	<location latitude="32 N" longitude="13 E">
+		<name place="Tripoli">Tripoli</name>
+	</location>
+	<location latitude="48 N" longitude="11 E">
+		<name place="Munich">Munich</name>
+	</location>
+	<location latitude="34 N" longitude="118 W">
+		<name place="Los Angelos">Los Angeles</name>
+	</location>
+	<location latitude="34 N" longitude="80 W">
+		<name place="South Carolina, Fort Jackson">South Carolina, Fort Jackson</name>
+	</location>
+	<location latitude="66 N" longitude="145 W">
+		<name place="Alaska, fort Yukon">Alaska, Fort Yukon</name>
+	</location>
+	<location latitude="39 N" longitude="126 E">
+		<name place="Korea">Korea</name>
+	</location>
+	<location latitude="37 N" longitude="122 W">
+		<name place="California, Fort Point Rock">California, Fort Point Rock</name>
+	</location>
+	<location latitude="39 N" longitude="123 W">
+		<name place="California, Fort Bragg">California, Fort Bragg</name>
+	</location>
+	<location latitude="40 N" longitude="73 W">
+		<name place="New York, Fort Hamilton">New York</name>
+	</location>
+	<location latitude="46 S" longitude="68 W">
+		<name place="Argentina">Argentina</name>
+	</location>
+</locations>

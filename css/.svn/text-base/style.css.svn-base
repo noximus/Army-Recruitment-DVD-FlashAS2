@@ -1,0 +1,45 @@
+/* CSS Document */
+
+.title{
+	font-size: 24px;
+	color: #FFF;
+	font-family: "InterstateBoldCompressed";
+	text-align: left;
+}
+
+.subTitle{
+	font-size: 20px;
+	color: #FFF;
+	font-family: "InterstateBoldCompressed";
+	text-align: left;
+}
+
+.copy{
+	color: #FFFFFF;
+	font-family: "InterstateRegular";
+}
+.yellow{
+	font-family: "InterstateRegular";
+	color: #FC0;
+}
+.valueCopy{
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: "InterstateRegular";
+
+}
+.valueTitle{
+	font-size: 14px;
+	color: #FFFFFF;
+	font-family: "InterstateBold";
+}
+.dropDownTitle{
+	font-size: 12px;
+	color:#FFCC00;
+	font-family:"InterstateRegular";
+}
+.dropDownItem{
+	font-size: 11px;
+	color:#FFFFFF;
+	font-family:"InterstateRegular";
+}

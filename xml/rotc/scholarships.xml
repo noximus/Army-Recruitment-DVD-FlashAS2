@@ -1,0 +1,20 @@
+<content clip="Template_scholarships_rotc">
+	<fields>
+
+		<textfield name="mc_top.tf_title" text="string:rotc/sections/benefits/title" />
+		<textfield name="mc_top.tf_copy"  text="string:rotc/sections/benefits/copy" />
+		
+		<textfield name="mc_bottom.tf_title" text="string:rotc/sections/benefits/scholarship/title" />
+		<textfield name="mc_bottom.tf_copy"  text="string:rotc/sections/benefits/scholarship/copy" />
+		<textfield name="mc_bottom.mc_download.tf_download"  text="string:rotc/sections/benefits/scholarship/download" />
+		
+		<textfield name="mc_chart.mc_slide1.tf_title" text="string:rotc/sections/benefits/paychart/slide1/title" />
+		<textfield name="mc_chart.mc_slide1.tf_copy"  text="string:rotc/sections/benefits/paychart/slide1/copy" />
+		
+		<textfield name="mc_chart.mc_slide3.tf_copy"  text="string:rotc/sections/benefits/paychart/slide3/copy" />
+		
+	</fields>
+	<clips>
+
+	</clips>
+</content>

@@ -1,0 +1,28 @@
+<content clip="Templates_basic_training_reserves">
+	<fields>
+		<textfield name="mc_topleft.tf_title" text="string:reserve/sections/basic/title" />
+		<textfield name="mc_topleft.tf_copy"  text="string:reserve/sections/basic/copy" />
+		<textfield name="mc_topleft.tf_learnmore"  text="string:reserve/sections/basic/learnmore" />
+			
+		<textfield name="mc_botleft.tf_copy"  text="string:reserve/sections/basic/basics/copy" />
+		<textfield name="mc_botleft.tf_title"  text="string:reserve/sections/basic/basics/title" />
+			
+		<textfield name="mc_speak.tf_copy"  text="string:speak/copy" />
+		<textfield name="mc_speak.tf_title"  text="string:speak/title" />
+			
+	</fields>
+	<clips>
+		
+		<clip name="mc_sp" type="ScrollPane" contentPath="contacts.mc_contacts" borderStyle="none" />
+		<clip name="mc_speak.mc_sp" type="ScrollPane" contentPath="Template_basic.SpeakLikeASoldier" borderStyle="none" />
+		
+		<clip name="mc_ready">
+			<xml>
+				
+			</xml>
+		</clip>
+		
+		<clip name="mc_video.mc_sp" type="Loader" contentPath="swf/basictrainingmovie.swf" borderStyle="none" />
+		
+	</clips>
+</content>

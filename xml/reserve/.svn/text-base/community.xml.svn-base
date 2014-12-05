@@ -1,0 +1,27 @@
+<content clip="Templates_community_reserves">
+	<fields>
+
+		<textfield name="mc_panels.mc_topLeft.tf_title" text="string:reserve/sections/community/title" />
+		<textfield name="mc_panels.mc_topLeft.tf_copy"  text="string:reserve/sections/community/copy" />
+		
+		<textfield name="mc_panels.mc_lowerLeft.tf_title" text="string:reserve/sections/community/where/title" />
+		<textfield name="mc_panels.mc_lowerLeft.tf_copy"  text="string:reserve/sections/community/where/copy" />
+		<textfield name="mc_panels.mc_lowerLeft.mc_click.tf_click"  text="string:reserve/sections/community/where/click" />
+
+		<textfield name="mc_panels.mc_lowerRight.tf_title" text="string:reserve/sections/community/citizen/title" />
+		<textfield name="mc_panels.mc_lowerRight.tf_copy"  text="string:reserve/sections/community/citizen/copy" />
+		
+		<textfield name="mc_panels.mc_lowerRight.tf_jessica_title"  text="string:reserve/sections/community/citizen/videos/jessica/title" />
+		<textfield name="mc_panels.mc_lowerRight.tf_jessica_copy"  text="string:reserve/sections/community/citizen/videos/jessica/copy" />
+		
+		<textfield name="mc_panels.mc_lowerRight.tf_jason_title"  text="string:reserve/sections/community/citizen/videos/jason/title" />
+		<textfield name="mc_panels.mc_lowerRight.tf_jason_copy"  text="string:reserve/sections/community/citizen/videos/jason/copy" />
+		
+		<textfield name="mc_panels.mc_lowerRight.tf_david_title"  text="string:reserve/sections/community/citizen/videos/david/title" />
+		<textfield name="mc_panels.mc_lowerRight.tf_david_copy"  text="string:reserve/sections/community/citizen/videos/david/copy" />
+		
+	</fields>
+	<clips>
+
+	</clips>
+</content>

@@ -1,0 +1,19 @@
+<content clip="Templates_AIT_reserves">
+	<fields>
+		<textfield name="mc_topLeft.tf_title" text="string:reserve/sections/ait/title" />
+		<textfield name="mc_topLeft.tf_copy"  text="string:reserve/sections/ait/copy" />
+		
+		<textfield name="mc_topLeft.tf_sub_title" text="string:reserve/sections/ait/qtvr/title" />
+		<textfield name="mc_topLeft.tf_sub_copy"  text="string:reserve/sections/ait/qtvr/copy" />
+		
+		<textfield name="mc_lowerLeft.tf_title" text="string:reserve/sections/ait/insignia/title" />
+		<textfield name="mc_lowerLeft.tf_copy"  text="string:reserve/sections/ait/insignia/copy" />
+		<textfield name="mc_lowerLeft.tf_download"  text="string:reserve/sections/ait/insignia/findout" />
+		
+		<textfield name="mc_lowerRight.tf_title" text="string:reserve/sections/ait/develop/title" />
+		<textfield name="mc_lowerRight.tf_copy"  text="string:reserve/sections/ait/develop/copy" />
+	</fields>
+	<clips>
+		
+	</clips>
+</content>
